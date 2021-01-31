@@ -29,7 +29,7 @@ public class EmployeeService {
         //I couldn't check isNullOrEmpty in the same line (below)
         if(name == null)
         {
-            name = "";
+            name = "";  
         }
 
         if (!name.isEmpty() && salary != null) {
