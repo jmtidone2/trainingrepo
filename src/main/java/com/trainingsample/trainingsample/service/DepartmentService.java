@@ -7,7 +7,7 @@ import org.springframework.stereotype.Service;
 @Service
 public class DepartmentService {
 
-    //Merge fixed -- From another branch
+    //Merge fixed -- From another branch test
     @Autowired
     private DepartmentRepository departmentRepository;
 }
