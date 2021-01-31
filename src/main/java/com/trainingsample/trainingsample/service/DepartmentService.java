@@ -9,4 +9,5 @@ public class DepartmentService {
 
     @Autowired
     private DepartmentRepository departmentRepository;
+
 }
